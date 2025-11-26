@@ -16,9 +16,9 @@
 
 ![image](archi_client.png "Architecture du client")
 
-## Architecture du projet (A completer lors de la finalisation du github)
+## Architecture du projet
 
-![image](archi_projet.png "Architecture du projet") 
+![image](archi_projet_new.png "Architecture du projet") 
 
 ## Règles implémentées TODO : SUPPRIMER LES REGLES EN DOUBLE / EN TROP
 
