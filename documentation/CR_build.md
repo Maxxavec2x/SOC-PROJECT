@@ -20,7 +20,7 @@
 
 ![image](archi_projet_new.png "Architecture du projet") 
 
-## Règles implémentées TODO : SUPPRIMER LES REGLES EN DOUBLE / EN TROP
+## Règles implémentées
 
 ### ASREP-Roasting
 
